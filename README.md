@@ -4,7 +4,7 @@
 The primary objective of this project was to analyze the French real estate market and locate suitable properties for two groups of customers: investors and vacation home seekers. We wanted to provide actionable insights by using SQL for data extraction and manipulation, Power BI for data visualization, and machine learning for cluster model.
 
 # Data sources
-We used data from [Le wagone ](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smy-project-2222-417300!2sus-central1!3s45e21d72-8b5d-4660-baab-6085ed81682b!2e1
+We used data from [Le wagon ](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smy-project-2222-417300!2sus-central1!3s45e21d72-8b5d-4660-baab-6085ed81682b!2e1
 )
 
 

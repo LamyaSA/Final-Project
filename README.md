@@ -8,14 +8,16 @@ We used data from [Le wagone ](https://console.cloud.google.com/bigquery?ws=!1m7
 )
 
 
- # Dashboard for investors :
-The first dashboard is designed for clients interested in investment opportunities, helping them make informed decisions based on data-driven insights
+ # Dashboard for investors 
+The first dashboard is designed for clients interested in investment opportunities, helping them make informed decisions based on data-driven insights.
 
-![Dashboard for Investors](https://github.com/user-attachments/assets/d6ee1679-ebd4-4cf3-b6ba-91f192521005)
+![Dashboard for Investors](https://github.com/user-attachments/assets/6ec4ebbe-cbe8-4aad-97fe-bb407999c75b)
 
 
 
-![Details for Investors](https://github.com/user-attachments/assets/79a32350-12ec-47ac-9967-822d3536136f)
+
+![Details for Investors](https://github.com/user-attachments/assets/e6498af4-fcf3-4f7d-b1c6-a580b9aa2772)
+
 
 
 
@@ -24,10 +26,10 @@ The first dashboard is designed for clients interested in investment opportuniti
 
 The second dashboard is designed for vacation home seekers, enhancing their experience by putting relevant information at their hand.
 
-![Dashboard for Holiday Home](https://github.com/user-attachments/assets/fe7890c6-bb1a-4ce6-b9d4-17ffd7daba96)
+![Dashboard for Holiday Home](https://github.com/user-attachments/assets/9036157c-975d-432c-a6d0-2230d8bf0cc6)
 
 
-![Details for  Holiday Home](https://github.com/user-attachments/assets/6f6561c8-7692-4cf0-96f7-9581acedef29)
+![Details for  Holiday Home](https://github.com/user-attachments/assets/0ff0d87c-b70f-4b2b-86b9-977d2c8570a8)
 
 
 # Key features of both dashboards :

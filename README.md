@@ -16,7 +16,8 @@ The first dashboard is designed for clients interested in investment opportuniti
 
 
 
-![Details for Investors](https://github.com/user-attachments/assets/e6498af4-fcf3-4f7d-b1c6-a580b9aa2772)
+![Details](https://github.com/user-attachments/assets/7d1b1d15-1aa3-428e-a9f7-0c6d3a0aa2e3)
+
 
 
 
